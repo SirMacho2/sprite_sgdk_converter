@@ -1,2 +1,2 @@
 # sprite_sgdk_converter
-utility to create stripites to SGDK 
+utility to create stprites to SGDK 
